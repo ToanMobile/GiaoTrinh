@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ /**Created by NetaloTeamAndroid on 2020
+  ~ Company: Netacom.
+  ~  **/
+  --><resources>
+	<dimen name="dp_12">11.4dp</dimen>
+
+	<dimen name="dp_56">53.2dp</dimen>
+	<dimen name="dp_240">228dp</dimen>
+	<dimen name="dp_15">14.25dp</dimen>
+	<dimen name="dp_160">152dp</dimen>
+	<dimen name="dp_14">13.3dp</dimen>
+	<dimen name="dp_96">91.2dp</dimen>
+	<dimen name="dp_200">190dp</dimen>
+    <dimen name="dp_120">114dp</dimen>
+	<dimen name="dp_10">9.5dp</dimen>
+	<dimen name="dp_16">15.2dp</dimen>
+	<dimen name="dp_280">266dp</dimen>
+	<dimen name="sub_dp_24">-22.8dp</dimen>
+	<dimen name="dp_18">17.1dp</dimen>
+	<dimen name="dp_2">1.9dp</dimen>
+	<dimen name="dp_1">0.95dp</dimen>
+    <dimen name="dp_50">47.5dp</dimen>
+    <dimen name="dp_90">85.5dp</dimen>
+	<dimen name="dp_46">43.7dp</dimen>
+    <dimen name="dp_48">45.6dp</dimen>
+    <dimen name="dp_150">142.5dp</dimen>
+	<dimen name="dp_42">39.9dp</dimen>
+	<dimen name="dp_112">106.4dp</dimen>
+	<dimen name="dp_44">41.8dp</dimen>
+	<dimen name="dp_88">83.6dp</dimen>
+    <dimen name="dp_110">104.5dp</dimen>
+    <dimen name="dp_40">38dp</dimen>
+	<dimen name="dp_300">285dp</dimen>
+	<dimen name="dp_80">76dp</dimen>
+	<dimen name="dp_140">133dp</dimen>
+	<dimen name="dp_34">32.3dp</dimen>
+	<dimen name="dp_36">34.2dp</dimen>
+	<dimen name="dp_38">36.1dp</dimen>
+	<dimen name="dp_260">247dp</dimen>
+	<dimen name="dp_100">95dp</dimen>
+	<dimen name="dp_30">28.5dp</dimen>
+	<dimen name="dp_32">30.4dp</dimen>
+	<dimen name="dp_220">209dp</dimen>
+    <dimen name="dp_70">66.5dp</dimen>
+    <dimen name="dp_72">68.4dp</dimen>
+	<dimen name="sub_dp_112">-106.4dp</dimen>
+	<dimen name="dp_24">22.8dp</dimen>
+    <dimen name="dp_250">237.5dp</dimen>
+	<dimen name="dp_130">123.5dp</dimen>
+    <dimen name="dp_26">24.7dp</dimen>
+    <dimen name="dp_20">19dp</dimen>
+	<dimen name="dp_64">60.8dp</dimen>
+    <dimen name="dp_22">20.9dp</dimen>
+	<dimen name="dp_21">19.95dp</dimen>
+    <dimen name="sub_dp_10">-9.5dp</dimen>
+	<dimen name="dp_8">7.6dp</dimen>
+	<dimen name="dp_6">5.7dp</dimen>
+	<dimen name="dp_28">26.6dp</dimen>
+    <dimen name="dp_5">4.75dp</dimen>
+    <dimen name="dp_4">3.8dp</dimen>
+	<dimen name="dp_3">2.85dp</dimen>
+	<dimen name="dp_60">57dp</dimen>
+    <dimen name="sp_28">28.5sp</dimen>
+	<dimen name="sp_18">19sp</dimen>
+	<dimen name="sp_8">9.5sp</dimen>
+    <dimen name="sp_20">20.9sp</dimen>
+	<dimen name="sp_10">11.4sp</dimen>
+    <dimen name="sp_12">13.3sp</dimen>
+	<dimen name="sp_24">24.7sp</dimen>
+	<dimen name="sp_14">15.2sp</dimen>
+	<dimen name="sp_26">26.6sp</dimen>
+	<dimen name="sp_16">17.1sp</dimen>
+	<dimen name="sp_70">68.4sp</dimen>
+	<dimen name="sp_30">30.4sp</dimen>
+</resources>
