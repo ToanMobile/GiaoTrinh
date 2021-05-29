@@ -1,4 +1,4 @@
-package com.toandev.myapplication.ui.home
+package com.toandev.lesson2.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

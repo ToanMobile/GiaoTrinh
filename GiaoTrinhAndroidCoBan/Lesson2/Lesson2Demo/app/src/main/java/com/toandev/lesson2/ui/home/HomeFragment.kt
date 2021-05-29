@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.fragment.findNavController
 import com.toandev.lesson2.R
-import com.toandev.myapplication.ui.home.HomeViewModel
 
 class HomeFragment : Fragment() {
 
@@ -23,6 +23,7 @@ class HomeFragment : Fragment() {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
         viewModel = ViewModelProvider(this).get(HomeViewModel::class.java)
+        //findNavController().navigate(R.id.mainFragment)
         // TODO: Use the ViewModel
     }
 }
