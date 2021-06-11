@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson10</string>
+    <string name="starter_text">Fragment Starting Text</string>
+    <string name="pos_label">Fragment Position Options:</string>
+    <string name="pos_top">Top Position</string>
+    <string name="pos_bottom">Bottom Position</string>
+    <string name="act_label">Fragment Action Options:</string>
+    <string name="act_add_random">Add random fragment</string>
+    <string name="act_rep_red">Replace with red fragment</string>
+    <string name="act_rep_green">Replace with green fragment</string>
+    <string name="act_remove">Remove</string>
+    <string name="button_label">Update fragment</string>
+</resources>

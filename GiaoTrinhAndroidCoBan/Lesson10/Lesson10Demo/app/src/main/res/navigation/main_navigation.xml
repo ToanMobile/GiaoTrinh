@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/fragment1">
+
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.toandev.lesson10.fragment_navigation.NavigationFragment"
+        tools:layout="@layout/fragment_navigation">
+        <action
+            android:id="@+id/clickFragmentData"
+            app:destination="@id/fragmentNavigationData" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragmentNavigationData"
+        android:name="com.toandev.lesson10.fragment_navigation.NavigationDataFragment"
+        tools:layout="@layout/fragment_navigation_data">
+        <argument
+            android:name="ToanTest"
+            app:argType="string" />
+
+        <argument
+            android:name="ToanDev"
+            app:argType="boolean" />
+    </fragment>
+</navigation>
